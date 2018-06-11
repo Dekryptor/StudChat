@@ -4,8 +4,11 @@ Local messenger for communication between people with account system support + L
 Database users contains two tables: users and friends.
 
 users table template:
+
 ID name surmame nickname password
 
+
 friends table template:
+
 user_ID friend_ID
 
